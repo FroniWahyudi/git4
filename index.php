@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <h1>Toko Online</h1>
+    <h1>nyobain git</h1>
     <button><a class="button" href="tambah.php" style="text-decoration: none; color: black;">Tambah data produk</a></button><br><br>
     <table border="1" cellpadding="10" cellspacing="0">
         <thead>
